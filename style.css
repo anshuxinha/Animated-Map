@@ -15,11 +15,11 @@
     cursor: pointer;
     
     &__marker {
-      fill: #fff;
+      fill: #fff !important;
     }
     
     &__icon {
-      fill: #fff;
+      fill: #fff !important;
     }
     
     &__image {
@@ -36,8 +36,8 @@
       font-family: brandon-grotesque, sans-serif;
       text-align: center;
       opacity: 0;
-      color: #fff;
-      fill: #fff;
+      color: #fff !important;
+      fill: #fff !important;
       transform-origin: 50% 50%;
       // Center SVG text
       alignment-baseline: middle;
