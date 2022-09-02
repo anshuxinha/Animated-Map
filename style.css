@@ -44,6 +44,13 @@
       text-anchor: middle;
     }  
   }
+  .e-marker__marker {
+    fill: #fff !important;
+  }
+  .e-marker__icon {
+    fill: #fff !important;
+  }
+
   .mapboxgl-map {
     -webkit-tap-highlight-color: #fff;
 }
