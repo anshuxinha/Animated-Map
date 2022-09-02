@@ -44,4 +44,7 @@
       text-anchor: middle;
     }  
   }
+  .mapboxgl-map {
+    -webkit-tap-highlight-color: #fff;
+}
   
