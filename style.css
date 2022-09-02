@@ -50,8 +50,4 @@
   .e-marker__icon {
     fill: #fff !important;
   }
-
-  .mapboxgl-map {
-    -webkit-tap-highlight-color: #fff;
-}
   
